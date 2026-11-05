@@ -52,7 +52,11 @@ What can it do?
 Thermal, structural, weight, water resistance, design
 
 ### Human Interface
-Ergonomic keyboard system
+- Provides text and command input
+- provides cursor and pointer control
+- Allows access to system controls without requiring software interaction
+- Satisfies OSHA recommendations for computer workstations
+- Enables efficient typing defined by 60+ words per minute 
 
 ### Networking, communications and instrumentation
 
