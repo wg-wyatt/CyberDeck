@@ -26,6 +26,8 @@ What can it do?
 - x86-compatible architecture
 - Processing capability
 - Interchangeable processing and memory components
+- Processing power?
+- Memory storage?
 
 ### Electrical Integration Requirements
 - Custom motherboard designed for interchangeable component interfacing
@@ -38,6 +40,13 @@ What can it do?
 - External debug interfaces?
 
 ### Power management
+- battery hours?
+- Rechargeable to full battery by USB-C within X hours
+- Provide regulated power to all internal systems
+- Battery runtime telemetry that measures charge state, battery health, remaining operating time, etc.
+- Protect against overcurrent, overtemperature, and undervoltage.
+- Provide controlled shutdown when battery capacity becomes insufficient
+- Interchangeable battery packs
 
 ### Mechanical Requirements
 Thermal, structural, weight, water resistance, design
