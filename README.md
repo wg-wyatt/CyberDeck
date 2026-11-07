@@ -21,7 +21,6 @@ What can it do?
 ## Design Requirements
 
 ### Computational and Processing Requirements
-
 - Execute a Linux-based OS
 - x86-compatible architecture
 - Processing capability
@@ -49,20 +48,32 @@ What can it do?
 - Interchangeable battery packs
 
 ### Mechanical Requirements
-Thermal, structural, weight, water resistance, design
+- Thermal system maintains operating temperature between?
+- Dissipates processor and power electronics heat with minimal system impact
+- Maximum weight of?
+- Meets an ingress protection rating of IP 57 per IEC
+- Can withstand a maximum load of?
+- Can withstand dynamic loading of ? associated with drops and impacts
 
 ### Human Interface
 - Provides text and command input
-- provides cursor and pointer control
+- Provides cursor and pointer control
 - Allows access to system controls without requiring software interaction
 - Satisfies OSHA recommendations for computer workstations
-- Enables efficient typing defined by 60+ words per minute 
+- Enables efficient typing defined by 60+ words per minute
+- Visual interface provides a simple and accessible workflow
+- Display supports ergonomic visual output 
 
 ### Networking, communications and instrumentation
-
-### Visual System
+- Ethernet, USB, and USB-C interfaces for component interaction and networking
+- WiFI, Bluetooth, and shortwave RF compatible
+- Can accommodate Ethernet, CAN bus, UART, SPI, and I2C communication protocols
+- Can acquire GNSS signal as needed
+- Possess a basic external interface package with modular attachments to support product development 
 
 ### Software
+
+### Manufacturing and Serviceability
 
 ---
 
