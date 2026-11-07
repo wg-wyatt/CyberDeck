@@ -10,8 +10,7 @@
 - Linux OS
 - x86 compatible
 - Interchangeable hardware
-What can it do?
-
+- Optimized for signal communications and product development
 ---
 
 ## Problem Statement
@@ -68,13 +67,25 @@ What can it do?
 - Ethernet, USB, and USB-C interfaces for component interaction and networking
 - WiFI, Bluetooth, and shortwave RF compatible
 - Can accommodate Ethernet, CAN bus, UART, SPI, and I2C communication protocols
-- Can acquire GNSS signal as needed
-- Possess a basic external interface package with modular attachments to support product development 
+- Can acquire GNSS signals as needed
+- Possesses a basic external interface package with modular attachments to support product development 
 
 ### Software
+- Boot independently into Linux
+- Support software installation and component management
+- Support development software environments
+- Provide hardware interface access
+- Support visualization for system interfacing
+- Support offline operation
+- Support server management
+- Provide recovery system and restoration
 
 ### Manufacturing and Serviceability
-
+- Designed for easy access to internal components
+- Permits replacement of major assemblies and critical electronics
+- Use standard fasteners and connectors
+- Designed for comprehensive diagnostics and testing
+- Accommodates future hardware revisions and component interfacing
 ---
 
 ## System Architecture
