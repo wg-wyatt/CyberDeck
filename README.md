@@ -99,12 +99,12 @@ The design will emphasize modularity, serviceability, power efficiency, and mech
 
 ---
 
-## Mechanical Design
+## Electrical Design
 
 
 ---
 
-## Electrical Design
+## Mechanical Design
 
 
 ---
