@@ -20,6 +20,7 @@ Conventional portable computing platforms offer limited opportunities for hardwa
 The objective of this project is to design and develop a modular, portable, Linux-compatible computing platform utilizing repurposed hardware components and custom-designed electronics. The system will incorporate a purpose-built motherboard architecture, custom structural housing, integrated thermal management, and an ergonomically optimized human-machine interface.
 
 The design will emphasize modularity, serviceability, power efficiency, and mechanical robustness while providing an expandable computing environment suitable for software development, hardware experimentation, and embedded systems integration.
+
 ---
 
 ## Design Requirements
