@@ -15,6 +15,11 @@
 
 ## Problem Statement
 
+Conventional portable computing platforms offer limited opportunities for hardware customization, component-level repair, and integration of specialized peripheral systems. Their fixed mechanical architectures, proprietary hardware configurations, and dependence on standardized input interfaces can restrict their adaptability to specialized computing and engineering applications.
+
+The objective of this project is to design and develop a modular, portable, Linux-compatible computing platform utilizing repurposed hardware components and custom-designed electronics. The system will incorporate a purpose-built motherboard architecture, custom structural housing, integrated thermal management, and an ergonomically optimized human-machine interface.
+
+The design will emphasize modularity, serviceability, power efficiency, and mechanical robustness while providing an expandable computing environment suitable for software development, hardware experimentation, and embedded systems integration.
 ---
 
 ## Design Requirements
@@ -83,7 +88,7 @@
 ### Manufacturing and Serviceability
 - Designed for easy access to internal components
 - Permits replacement of major assemblies and critical electronics
-- Use standard fasteners and connectors
+- Uses standard fasteners and connectors
 - Designed for comprehensive diagnostics and testing
 - Accommodates future hardware revisions and component interfacing
 ---
