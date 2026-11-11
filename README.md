@@ -56,6 +56,7 @@ The design will emphasize modularity, serviceability, power efficiency, and mech
 - Thermal system maintains operating temperature between?
 - Dissipates processor and power electronics heat with minimal system impact
 - Maximum weight of?
+- Dimensions?
 - Meets an ingress protection rating of IP 57 per IEC
 - Can withstand a maximum load of?
 - Can withstand dynamic loading of ? associated with drops and impacts
